@@ -1,0 +1,111 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    padding: 10px;
+}
+
+main {
+    width: 500px;
+    margin: 0 auto;
+}
+
+form {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.ByContinuing {
+    margin-top: 4px;
+    font-size: small;
+    margin-top: 6px;
+}
+
+.Need {
+    font-size: small;
+}
+
+.Continue {
+    text-decoration: none;
+    background-color: #ffd61d;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 15px;
+    color: #000000;
+    margin-bottom: 6px;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.Continue:hover {
+    background-color: #ffd000
+}
+
+a {
+    text-decoration: none;
+}
+a:hover{
+    color:peru;
+}
+.fw-bold {
+    font-size: small;
+}
+
+.Shop {
+    font-size: small;
+}
+
+li {
+    list-style: none;
+    float: left;
+    margin-left: 20px;
+    font-size: small;
+    padding: 16px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+.mt-5 {
+    background-color: #faf6f6;
+}
+
+.end-part {
+    font-size: small;
+    display: flex;
+    justify-content: center;
+}
+
+.AmazonAccount {
+    font-size: small;
+    display: flex;
+    justify-content: center;
+    color: black;
+    border: 1px solid black ;
+    border-radius: 15px;
+    margin-top: 20px;
+    padding: 5px;
+}
+.AmazonAccount:hover{
+    background-color: #faf6f6;
+}
